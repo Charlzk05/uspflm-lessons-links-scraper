@@ -1,4 +1,4 @@
-## USPFLM Lessons Scraper
+## USPFLM Lessons Links Scraper
 Using python Requests, BeautifulSoup to extract Lessons links from USPFLM courses.
 
 #### also check out
