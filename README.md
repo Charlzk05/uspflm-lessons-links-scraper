@@ -6,7 +6,7 @@ Using python Requests, BeautifulSoup to extract Lessons links from USPFLM course
 
 ## Installation
 - Download python 3.10 above. ([Official python download](https://www.python.org/downloads/))
-- Download [main.py](https://github.com/Charlzk05/uspflm-upcoming-events-scrapper/archive/refs/heads/main.zip)
+- Download [main.py](https://github.com/Charlzk05/uspflm-lessons-links-scraper/archive/refs/heads/main.zip)
 - Install packages.
 ```python
 pip install requests
